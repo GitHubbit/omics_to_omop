@@ -58,6 +58,9 @@ Note that there are many potentially clinically relevant fields available from t
     - Tissue source
     - SRA run  
 
+![image](https://user-images.githubusercontent.com/10294502/120839451-cf71d780-c51d-11eb-9f23-634ce87975b1.png)
+
+
 #### Output
 
 - One SQLite database per input that maps input fields to the OMOP CDM
